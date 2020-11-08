@@ -7,7 +7,8 @@ out the contents of your dictionary (order does not matter).
    
    Sample Line:
 From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008
-Sample Execution:
+   
+   Sample Execution:
 python dow.py
 Enter a file name: mbox-short.txt
 {'Fri': 20, 'Thu': 6, 'Sat': 1}
